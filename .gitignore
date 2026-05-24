@@ -1,6 +1,4 @@
 .env
 venv/
 env/
-RAG.py
-RAG.ipyng
 .pdf
